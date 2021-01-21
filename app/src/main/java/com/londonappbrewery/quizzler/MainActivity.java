@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
     Button mFalseButton;
 
 
-    // TODO: Uncomment to create question bank and
+    // TODO: Uncomment to create question bank
     private TrueFalse[] mQuestionBank = new TrueFalse[] {
             new TrueFalse(R.string.question_1, true),
             new TrueFalse(R.string.question_2, true),
